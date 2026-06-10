@@ -1,0 +1,8 @@
+# JetBrains IDE konfigurace
+.idea/
+*.iml
+
+# CLion build složky (kompilace)
+cmake-build-debug/
+cmake-build-release/
+/build/
